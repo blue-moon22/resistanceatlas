@@ -1,19 +1,15 @@
 # Resistance Atlas
 
-### Update: 14th March
+### Hosting this site on your local machine
 
-The website is now available to view [online](http://resistanceatlas.org/)
+1. Clone repository
 
-### Instructions
+2. Install [npm http-server](https://www.npmjs.com/package/http-server)
 
-Clone repository
-
-Install [npm http-server](https://www.npmjs.com/package/http-server)
-
+3. Run service
 ```
-cd resistanceAtlas
-
-http-server
+cd resistanceatlas
+npx http-server
 ```
 
-Put link in browser
+4. Put IP address in your browser
