@@ -1,6 +1,6 @@
 # Resistance Atlas
 
-### Hosting this site on your local machine
+## Hosting this site on your local machine
 
 1. Clone repository
 
@@ -13,3 +13,6 @@ npx http-server
 ```
 
 4. Put IP address in your browser
+
+## Preview
+![screenshot](img/screenshot.png)
